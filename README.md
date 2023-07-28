@@ -1,4 +1,4 @@
-# Proje Hakkında Önemli Bilgilendirme:
+# Proje Hakkında Bilgilendirme:
 
 Bu web tasarımını yazarken ReactJs kütüphanesini kullandım. O yüzden projeyi ReactJs formatında yükledim. Projeyi başlatmak için şu adımları takip edebilirsiniz: (kendi bilgisayarımda nodejs 18.0.0 ve npm 9.6.3 versiyonu yüklü)
 
