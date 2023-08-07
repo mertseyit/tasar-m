@@ -6,9 +6,9 @@ Bu web tasarımını yazarken ReactJs kütüphanesini kullandım. O yüzden proj
 
 2 - Daha sonra projeyi başlatın : npm run dev
 
-3 - Projeyi npm run dev komutu ile çalıştırdıktan sonra eğer boş ise proje localhost:3000 portunda çalışacaktır. Tarayıcınızda o URL'e giderseniz eğer projeyi göreceksinizdir. Eğer 3000 portu dolu ise 3001 portunda çalışacaktır
+3 - Projeyi npm run dev komutu ile çalıştırdıktan sonra eğer boş ise proje localhost:3000 portunda çalışacaktır. Tarayıcınızda o URL'e giderseniz eğer projeyi göreceksinizdir. Eğer 5173 portu dolu ise başka bir portta ayağa kalkacaktır
 
-port-info.png görselindeki console görseli gibi konsolda bir çıktı almanız gerekli
+(port-info.png görselindeki console görseli gibi konsolda bir çıktı almanız gerekli)
 
 
 
