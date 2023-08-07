@@ -8,4 +8,7 @@ Bu web tasarımını yazarken ReactJs kütüphanesini kullandım. O yüzden proj
 
 3 - Projeyi npm run dev komutu ile çalıştırdıktan sonra eğer boş ise proje localhost:3000 portunda çalışacaktır. Tarayıcınızda o URL'e giderseniz eğer projeyi göreceksinizdir. Eğer 3000 portu dolu ise 3001 portunda çalışacaktır
 
+port-info.png görselindeki console görseli gibi konsolda bir çıktı almanız gerekli
+
+
 
